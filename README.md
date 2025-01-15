@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gauravdev.vercel.app/](https://gauravdev.vercel.app/)
 
-- 💬 Ask me about **React.js, Tailwind CSS**
+- 💬 Ask me about **React.js, JavaScript, Tailwind CSS**
 
 - 📫 How to reach me **gouraw1@gmail.com**
 
