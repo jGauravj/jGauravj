@@ -1,18 +1,102 @@
-# 💫 About Me:
-💻 Frontend Developer with 1.5 years of experience<br>🚀 Currently learning backend (Node.js, Express.js, MongoDB)<br>🌱 Open to Full Stack (MERN) & Frontend roles<br>📚 Building projects to strengthen backend skills<br>🎯 Looking for Full-time job or Freelance opportunities<br>🌐 Portfolio: https://gauravdev.vercel.app/
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7F1D1D,100:E63946&height=240&section=header&text=Gaurav%20Jangir&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descSize=18&descAlignY=58&animation=fadeIn" alt="Gaurav Jangir — Full Stack Developer" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-jangir-4b2427221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Gauravjangir07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouraw1@gmail.com) 
+<p align="center">
+  <a href="https://gauravdev.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=E63946&center=true&vCenter=true&width=640&lines=I+build+fast%2C+responsive+%26+pixel-perfect+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Going+full+stack+with+Node.js%2C+Express+%26+MongoDB;Open+to+Full-time+%26+Freelance+opportunities" alt="Typing intro" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jGauravj&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jGauravj&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jGauravj&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://gauravdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/gaurav-jangir-4b2427221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+  <a href="https://x.com/Gauravjangir07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:gouraw1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jGauravj&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+
+## ⚡ About Me
+
+> **Frontend-first. Full-stack bound.**
+
+I'm a developer from **Jaipur, India** with **1.5+ years** of experience crafting fast, responsive and pixel-perfect interfaces with **React, Next.js and TypeScript**. Lately I've been going deep on the backend: designing REST APIs, auth flows and databases with **Node.js, Express and MongoDB**, and shipping end-to-end MERN and AI-powered apps along the way.
+
+```ts
+const gaurav = {
+  role:        "Full Stack Developer",
+  location:    "Jaipur, India",
+  experience:  "1.5+ years",
+  mainStack:   ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  levelingUp:  ["Node.js", "Express", "MongoDB", "REST APIs"],
+  building:    "AI-powered web apps ⚡",
+  openTo:      ["Full-time roles", "Freelance projects"],
+  motto:       "Ship fast, polish relentlessly.",
+};
+```
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+## 🧰 Tech Stack
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,materialui,vite&perline=11" alt="Frontend skills" />
+</p>
+
+<p align="center"><b>Backend & Database</b>&nbsp;&nbsp;·&nbsp;&nbsp;<b>Tools & Deployment</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend skills" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,figma" alt="Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Router-161B22?style=for-the-badge&logo=reactrouter&logoColor=E63946" alt="React Router" />
+  <img src="https://img.shields.io/badge/Context_API-161B22?style=for-the-badge&logo=react&logoColor=E63946" alt="Context API" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-161B22?style=for-the-badge&logo=reacthookform&logoColor=E63946" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-161B22?style=for-the-badge&logo=shadcnui&logoColor=E63946" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Motion-161B22?style=for-the-badge&logo=framer&logoColor=E63946" alt="Motion" />
+  <img src="https://img.shields.io/badge/Socket.io-161B22?style=for-the-badge&logo=socketdotio&logoColor=E63946" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/JWT-161B22?style=for-the-badge&logo=jsonwebtokens&logoColor=E63946" alt="JWT" />
+  <img src="https://img.shields.io/badge/Cloudinary-161B22?style=for-the-badge&logo=cloudinary&logoColor=E63946" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Gemini_API-161B22?style=for-the-badge&logo=googlegemini&logoColor=E63946" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Render-161B22?style=for-the-badge&logo=render&logoColor=E63946" alt="Render" />
+</p>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+
+## 🚀 Featured Projects
+
+| Project | What it does | Built with | Links |
+| :-- | :-- | :-- | :-: |
+| **ThinkSpace** | Full-stack blogging platform with a block-based rich-text editor, JWT + Google sign-in and Cloudinary image uploads | React · Express · MongoDB · Firebase · Tailwind | [![Live](https://img.shields.io/badge/Live-E63946?style=flat-square&logo=vercel&logoColor=white)](https://thinkspace-ten.vercel.app) [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jGauravj/Fullstack-Blog) |
+| **AI Fitness Coach** | Voice-powered AI assistant that builds personalized diet and workout plans | Next.js · TypeScript · Convex · Vapi · Tailwind | [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jGauravj/AI-Ftiness) |
+| **Logofy** | AI logo generator: describe your brand, get a logo in seconds | Next.js · Gemini · Hugging Face · Tailwind | [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jGauravj/Logofy) |
+| **HRMS Dashboard** | HR management dashboard with a clean, component-driven UI | React · Vite · shadcn/ui · Context API · Tailwind | [![Live](https://img.shields.io/badge/Live-E63946?style=flat-square&logo=vercel&logoColor=white)](https://hrms-dashboard-iota.vercel.app) [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jGauravj/HRMS-Dashboard) |
+| **ChatGPT Clone** | ChatGPT-style chat app with real-time messaging and authentication | Next.js · TypeScript · Firebase · Tailwind | [![Code](https://img.shields.io/badge/Code-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/jGauravj/Chatgpt-clone) |
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jGauravj&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs,prs&custom_title=GitHub%20Stats&card_width=330&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jGauravj&layout=compact&langs_count=6&hide=shell&card_width=330&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&hide_border=true&border_radius=12" alt="Top languages" />
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+
+<p align="center">
+  <b>Let's build something great together.</b><br/>
+  <sub>Open to full-time roles and freelance work. My inbox is always open: <a href="mailto:gouraw1@gmail.com">gouraw1@gmail.com</a></sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,55:7F1D1D,100:0D1117&height=120&section=footer" alt="" />
+</p>
