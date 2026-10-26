@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="140" viewBox="0 0 400 140" fill="none" role="img" aria-label="1.5+ years experience, 36+ public repos, 200+ commits, open to work">
+<title>1.5+ years experience, 36+ public repos, 200+ commits, open to work</title>
+<defs>
+<style>.s{font-family:"Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Ubuntu, Arial, sans-serif;} .m{font-family:ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;}</style>
+
+</defs>
+<rect x="0.5" y="0.5" width="399" height="139" rx="12" fill="#0B0D12" stroke="#22252B"/>
+<text x="25" y="35" class="s" font-size="18" font-weight="600" fill="#E6EDF3">At a Glance</text>
+<text x="25" y="74" class="s" font-size="20" font-weight="700" fill="#E6EDF3">1.5+</text>
+<text x="76.0" y="74" class="s" font-size="13" fill="#8B949E">years experience</text>
+<text x="210" y="74" class="s" font-size="20" font-weight="700" fill="#E6EDF3">36+</text>
+<text x="256.0" y="74" class="s" font-size="13" fill="#8B949E">public repos</text>
+<text x="25" y="118" class="s" font-size="20" font-weight="700" fill="#E6EDF3">200+</text>
+<text x="83.0" y="118" class="s" font-size="13" fill="#8B949E">commits</text>
+<text x="210" y="118" class="s" font-size="20" font-weight="700" fill="#3FB950">Open</text>
+<text x="268.0" y="118" class="s" font-size="13" fill="#8B949E">to work</text>
+</svg>
